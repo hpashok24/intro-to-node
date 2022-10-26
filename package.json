@@ -1,0 +1,19 @@
+{
+  "name": "nodefiles",
+  "version": "16.17.1",
+  "description": "simple webex",
+  "main": "hello_world.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hpashok24/intro-to-node.git"
+  },
+  "author": "Hariprasad ashok",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hpashok24/intro-to-node/issues"
+  },
+  "homepage": "https://github.com/hpashok24/intro-to-node#readme"
+}
