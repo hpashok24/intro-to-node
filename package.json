@@ -4,6 +4,7 @@
   "description": "simple webex",
   "main": "hello_world.js",
   "scripts": {
+    "start": "node hello_world.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
